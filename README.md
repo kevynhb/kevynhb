@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou @kevynhb
 - 👀 Estou interessado em JavaScrip, React e ReactNative
-- 🌱 Atualmente estou aprendendo ReactNative - RockeatSet(NLW#5)
+- 🌱 Atualmente estou aprendendo FrontEnd - RockeatSet(NLW#6-Togheter)
 - 💞️ Estou procurando colaborar em alguma empresa de tecnologia moderna.
 - 📫 Como me encontrar: kevynh36@gmail.com
 
