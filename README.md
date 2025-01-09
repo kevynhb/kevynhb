@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou @kevynhb
-- 👀 Estou interessado em JavaScrip, React e Programação Web com PHP
-- 🌱 Atualmente estou aprendendo - PHP(PDO), POO, BD(Mysql)
+- 👀 Estou interessado em Programação Web com PHP Moderno
+- 🌱 Atualmente estou aprendendo - PHP, MVC e Laravel
 - 📫 Como me encontrar: kevynh36@gmail.com
 
 <!---
