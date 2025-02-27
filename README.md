@@ -1,6 +1,5 @@
-- 👋 Oi, eu sou @kevynhb
-- 👀 Estou interessado em Programação Web com PHP Moderno
-- 🌱 Atualmente estou aprendendo - PHP, MVC e Laravel
+- 👋 Hi, I am @kevynhb
+
 - 📫 Como me encontrar: kevynh36@gmail.com
 
 <!---
