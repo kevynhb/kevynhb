@@ -1,6 +1,6 @@
 - 👋 Hi, I am @kevynhb
 
-- 📫 Como me encontrar: kevynh36@gmail.com
+- 📫 My e-mail: kevynh36@gmail.com
 
 <!---
 kevynhb/kevynhb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
