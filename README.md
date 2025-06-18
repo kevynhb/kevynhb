@@ -13,7 +13,7 @@ Desenvolvedor de Software com pouco mais de 4 anos de experiência e formando em
 ### Conecte-se comigo
 
 [![Perfil DIO](https://img.shields.io/badge/-DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/kevyn_hotts)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:kevynh36@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:kevynh36@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/SEUUSERNAME/)
 
 ### Linguagens
@@ -33,9 +33,10 @@ Desenvolvedor de Software com pouco mais de 4 anos de experiência e formando em
 
 <!-- ![PHP](https://img.shields.io/badge/php-000?style=for-the-badge&logo=php&logoColor)
 ![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=java&logoColor)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor)
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F) -->
+![Laravel](https://img.shields.io/badge/laravel-000?style=for-the-badge&logo=laravel&logoColor)
+![Spring Boot](https://img.shields.io/badge/springboot-000?style=for-the-badge&logo=springboot&logoColor)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor)](https://docs.github.com/)
 [![GitLab](https://img.shields.io/badge/gitlab-000?style=for-the-badge&logo=gitlab&logoColor)](https://docs.gitlab.com/)
