@@ -42,20 +42,21 @@ Desenvolvedor de Software com pouco mais de 4 anos de experiência e formando em
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div> -->
-
+<!--
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevynhb&theme=onedark&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&)
-
+-->
 <!-- linguagens mais usadas -->
 <!-- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kevynhb&layout=compact&theme=onedark&border_color=30A3DC&title_color=E94D5F&text_color=FFF) -->
 
+<!--
 ### Meus Principais Desafios de Projeto
 
 [![clone-tabnews](https://github-readme-stats.vercel.app/api/pin/?username=kevynhb&repo=clone-tabnews&theme=onedark&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/kevynhb/clone-tabnews)
 
 [![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=kevynhb&repo=NlwOrigin&theme=onedark&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/kevynhb/NlwOrigin)
-
+-->
 ---
 
 <div align="center">
